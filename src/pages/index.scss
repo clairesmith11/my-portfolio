@@ -24,7 +24,7 @@ body {
         rgba(149, 165, 166, 0.95),
         rgba(149, 165, 166, 0.95)
       ),
-      url('/static/hero.jpg') no-repeat fixed;
+      url('../images/hero.jpg') no-repeat fixed;
     background-size: 100vw auto;
     background-position: top;
     clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
