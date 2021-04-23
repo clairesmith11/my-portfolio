@@ -1,0 +1,38 @@
+[
+  {
+    "title": "S'more Time in the Smokies",
+    "siteUrl": "https://smoretimeinthesmokies.com",
+    "codeUrl": null,
+    "image": "./images/project-1.png",
+    "description": "A static site built for a client with a small cabin-rental business in the Smoky Mountains of Tennesee. I custom-designed the Wordpress template to suit the client's needs and to make updating property information intuitive and simple. All page and logo design was done by me with the help of Bootstrap. It was a great opportunity to dip my toes into PHP and custom CMS development.",
+    "tools": "Wordpress | PHP | Bootstrap | HTML | CSS",
+    "projectNumber": 1
+  },
+  {
+    "title": "Dazzle Jewelry Store",
+    "siteUrl": "https://dazzle-jewelry.herokuapp.com/",
+    "codeUrl": "https://github.com/clairesmith11/dazzle-ecommerce-MERN",
+    "image": "./images/project-2.png",
+    "description": "A demo MERN-stack app inspired by a Brad Traversy course but coded on my own. This completely-custom ecommerce site features a React SPA frontend paired with a RESTful API and a NoSQL database. My aim was to practice my skills in the MERN stack and add functionality for protected and admin routes, updating and creating new product documents, secure login with JSON web tokens, and state management with a combination of Redux for global state and React Hooks for local component state.",
+    "tools": "MongoDb | Express | React | Redux | Node.js | Bootstrap",
+    "projectNumber": 2
+  },
+  {
+    "title": "Penny's Animal Sanctuary",
+    "siteUrl": "https://pennyssanctuary.web.app",
+    "codeUrl": "https://github.com/clairesmith11/animal-sanctuary-backend",
+    "image": "./images/project-3.png",
+    "description": "My first chance to spread my wings in the MERN stack. I had a lot of fun building this React frontend with a RESTful API / MongoDB backend. It features modern React implementation with React hooks as well as a no-framework UI design using all custom CSS. Users can search for a dog that meets their needs and submit an application to adopt, then check the status of those applications on their private profile. Admins can create and edit new animals in their own protected routes.",
+    "tools": "MongoDb | Express | React | Node.js | CSS",
+    "projectNumber": 3
+  },
+  {
+    "title": "eCalendar",
+    "siteUrl": "https://ecalendar-2021.herokuapp.com/",
+    "codeUrl": "https://github.com/clairesmith11/ecalendar",
+    "image": "./images/project-5.png",
+    "description": "A responsive events calendar for viewing, adding, editing and deleting appointments by date. Utilizes a Mongo database for persistence and basic CRUD operations for retrieving and altering data. Built for Chingu Voyage 30, so it uses as few external libraries as possible.",
+    "tools": "React | MongoDB | Node | Express | Bootstrap",
+    "projectNumber": 4
+  }
+]
