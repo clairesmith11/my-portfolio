@@ -17,12 +17,12 @@ const Skills = (props) => (
                     <Col md={3} className="my-2">
                         <FontAwesomeIcon className="skills-icon" icon={faServer} size="6x" />
                         <h4 className="my-3">BACK END</h4>
-                        <p>Node.js | Express | MongoDB | Mongoose | REST APIs | PHP for Wordpress</p>
+                        <p>Node.js | Express | MongoDB | Mongoose | REST APIs</p>
                     </Col>
                     <Col md={3} className="my-2">
                         <FontAwesomeIcon className="skills-icon" icon={faCodeBranch} size="6x" />
                         <h4 className="my-3">ENVIRONMENT</h4>
-                        <p>Git | Github | MVC architecture | Heroku | DeployHQ | NPM | VSCode | Node debugger</p>
+                        <p>Git | Github | MVC architecture | Heroku | Netlify | NPM | VSCode | Node debugger</p>
                     </Col>
                 </Row>
             </Fade>

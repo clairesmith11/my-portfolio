@@ -160,7 +160,11 @@ body {
     height: 80vh;
 
     &__scroll-button {
-      bottom: 60px;
+      bottom: 40px;
+    }
+    &::after {
+      background-size: auto;
+      background-position: center;
     }
   }
   .footer {
