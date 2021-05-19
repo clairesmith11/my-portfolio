@@ -3,7 +3,7 @@
     "title": "S'more Time in the Smokies",
     "siteUrl": "https://smoretimeinthesmokies.com",
     "codeUrl": null,
-    "image": "./images/project-1.png",
+    "image": "./images/project-4.png",
     "description": "A site built for a client with a small cabin-rental business in the Smoky Mountains of Tennesee. I custom-designed the Wordpress template to suit the client's needs and to make updating property information intuitive and simple. All page and logo design was done by me with the help of Bootstrap. It was a great opportunity to dip my toes into PHP and custom CMS development.",
     "tools": "Wordpress | PHP | Bootstrap | HTML | CSS",
     "projectNumber": 1
